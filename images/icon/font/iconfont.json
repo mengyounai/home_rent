@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1082",
+      "name": "电视机",
+      "font_class": "dianshiji",
+      "unicode": "f0099",
+      "unicode_decimal": 983193
+    },
+    {
+      "icon_id": "4762912",
+      "name": "冰箱",
+      "font_class": "bingxiang",
+      "unicode": "e90b",
+      "unicode_decimal": 59659
+    },
+    {
+      "icon_id": "4762918",
+      "name": "洗衣机",
+      "font_class": "xiyiji",
+      "unicode": "e90d",
+      "unicode_decimal": 59661
+    },
+    {
+      "icon_id": "4762919",
+      "name": "空调",
+      "font_class": "kongtiao",
+      "unicode": "e90e",
+      "unicode_decimal": 59662
+    },
+    {
+      "icon_id": "4762921",
+      "name": "宽带",
+      "font_class": "kuandai",
+      "unicode": "e90f",
+      "unicode_decimal": 59663
+    },
+    {
+      "icon_id": "5187409",
+      "name": "沙发",
+      "font_class": "shafa",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "33997754",
+      "name": "衣柜",
+      "font_class": "yigui",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "33997766",
+      "name": "天然气",
+      "font_class": "tianranqi",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "33997768",
+      "name": "热水器",
+      "font_class": "reshuiqi",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "33997778",
+      "name": "暖气",
+      "font_class": "nuanqi",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    }
+  ]
+}
